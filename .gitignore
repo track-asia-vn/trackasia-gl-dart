@@ -1,0 +1,16 @@
+# Files and directories created by pub
+.dart_tool/
+.packages
+.pub/
+
+# Conventional directory for build outputs
+build/
+
+# Directory created by dartdoc
+doc/api/
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/
