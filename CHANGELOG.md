@@ -2,7 +2,7 @@
 
 ## 0.2.2 (2022-06-24)
 
-* First release after the fork and adaption for Maplibre GL JS. Includes renaming of the package to maplibre_gl_dart
+* First release after the fork and adaption for Trackasia GL JS. Includes renaming of the package to trackasia_gl_dart
 
 ## 0.2.1 (2021-11-09)
 
