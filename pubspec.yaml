@@ -3,7 +3,7 @@ version: 0.2.2
 description: trackasia-gl wrapper for Dart. Library to use trackasia GL JS in
   your web Dart projects. Forked from
   https://github.com/andrea689/mapbox-gl-dart
-homepage: https://github.com/track-asia-vn/trackasia-gl-dart
+homepage: https://github.com/track-asia/trackasia-gl-dart
 environment:
   sdk: ">=2.12.0 <3.0.0"
 
